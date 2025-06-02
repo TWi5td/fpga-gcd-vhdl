@@ -17,7 +17,7 @@ This project implements a Mealy Finite State Machine (FSM) in Verilog to compute
 - `images/`: Simulation screenshots and state diagram.
 
 ## State Diagram
-![FSM State Diagram](images/gcd_state_diagram.png)
+![FSM State Diagram](images/gcd_state_diagram.drawio.png)
 
 ## How to Run
 1. Clone the repository:
